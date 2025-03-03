@@ -15,10 +15,10 @@
 ### 💫 About Me
 
 - 🎓 I'm a Student and Web Developer
-- 🔭 I’m currently learning on Web Development(Django Stack)
-- 🌱 I’m currently learning Data Analytics
+- 🔭 I’m currently learning on Web Development(Java Spring Framework)
+- 🌱 I’m currently learning Java Spring framework, Databases(Mysql, PostgreSQL)
 - 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2024 Goals: Learn Django Stack, Data Analytics And strengthen DSA
+- 🥅 2025 Goals: Learn Java Spring Framework, Databases, and strengthen DSA
 
 <br>
 
